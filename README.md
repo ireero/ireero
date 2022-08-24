@@ -3,7 +3,7 @@
 - 🔭 Sou estagiário de TI
 - 🌱 Atualmente estou focado em estudar Python para Django
 - 📫 Manda mensagem ae: renato.memory@gmail.com
-- ⚡ Fato sobre mim: Odeio React Native 💀.
+- ⚡ Fato sobre mim: Odeio React Native 💀 e amo Flutter :blue_heart:.
 
 <div>
   <a href="https://github.com/ireero">
