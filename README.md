@@ -3,7 +3,7 @@
 - 🔭 Sou estagiário de TI
 - 🌱 Atualmente estou focado em estudar Python para Django
 - 📫 Manda mensagem ae: renato.memory@gmail.com
-- ⚡ Fato sobre mim: Sou desenvolvedor indie de jogos nas horas vagas :blue_heart:.
+- ⚡ Fato sobre mim: Sou desenvolvedor indie de jogos nas horas vagas.
 
 <div>
   <a href="https://github.com/ireero">
