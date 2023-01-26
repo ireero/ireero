@@ -3,7 +3,7 @@
 - 🔭 Sou Desenvolvedor Júnior
 - 🌱 Atualmente estou focado em estudar Django Rest Framework para a construção de APIs com Docker
 - 📫 Manda mensagem ae: renato.memory@gmail.com
-- ⚡ Fato sobre mim: Sou desenvolvedor indie de jogos nas horas vagas.
+- ⚡ Fatos sobre mim: Gosto bastante de Linux e sou desenvolvedor indie de jogos nas horas vagas.
 
 <div>
   <a href="https://github.com/ireero">
