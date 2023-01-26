@@ -1,6 +1,6 @@
 ## Eaeeee, eu sou o ireero
 
-- 🔭 Sou Desemvolvedor Júnior
+- 🔭 Sou Desenvolvedor Júnior
 - 🌱 Atualmente estou focado em estudar Django Rest Framework para a construção de APIs com Docker
 - 📫 Manda mensagem ae: renato.memory@gmail.com
 - ⚡ Fato sobre mim: Sou desenvolvedor indie de jogos nas horas vagas.
