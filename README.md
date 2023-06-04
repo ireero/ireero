@@ -1,7 +1,7 @@
 ## Eaeeee, eu sou o ireero
 
 - 🔭 Sou Desenvolvedor Júnior
-- 🌱 Atualmente estou focado em estudar Django Rest Framework para a construção de APIs com Docker
+- 🌱 Atualmente estou focado em estudar Flutter para desenvolvimento Mobile.
 - 📫 Manda mensagem ae: renato.memory@gmail.com
 - ⚡ Fatos sobre mim: Gosto bastante de Linux e sou desenvolvedor indie de jogos nas horas vagas.
 
