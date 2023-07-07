@@ -1,6 +1,6 @@
 ## Eaeeee, eu sou o ireero
 
-- 🔭 Sou Desenvolvedor Júnior
+- 🔭 Sou Analista Júnior
 - 🌱 Atualmente estou focado em estudar Flutter para desenvolvimento Mobile.
 - 📫 E-mail para contato: renato.memory@gmail.com
 - ⚡ Fatos sobre mim: Gosto bastante de Linux e sou um fâ de flutter.
