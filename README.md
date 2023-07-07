@@ -2,8 +2,8 @@
 
 - 🔭 Sou Desenvolvedor Júnior
 - 🌱 Atualmente estou focado em estudar Flutter para desenvolvimento Mobile.
-- 📫 Manda mensagem ae: renato.memory@gmail.com
-- ⚡ Fatos sobre mim: Gosto bastante de Linux e sou desenvolvedor indie de jogos nas horas vagas.
+- 📫 E-mail para contato: renato.memory@gmail.com
+- ⚡ Fatos sobre mim: Gosto bastante de Linux e sou um fâ de flutter.
 
 <div>
   <a href="https://github.com/ireero">
