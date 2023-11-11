@@ -1,9 +1,9 @@
 ## Eaeeee, eu sou o ireero
 
-- 🔭 Sou Analista Júnior
-- 🌱 Atualmente estou focado em estudar Flutter para desenvolvimento Mobile.
+- 🔭 Sou Desenvolvedor Júnior
+- 🌱 Atualmente atuo principalmente com Python.
 - 📫 E-mail para contato: renato.memory@gmail.com
-- ⚡ Fatos sobre mim: Gosto bastante de Linux e sou um fâ de flutter.
+- ⚡ Fatos sobre mim: Gosto bastante de Linux e prefiro Flask ao Django.
 
 <div>
   <a href="https://github.com/ireero">
