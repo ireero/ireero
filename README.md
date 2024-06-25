@@ -1,6 +1,6 @@
 ## Eaeeee, eu sou o ireero
 
-- 🔭 Sou Desenvolvedor Júnior
+- 🔭 Sou Desenvolvedor
 - 🌱 Atualmente atuo principalmente com Python.
 - 📫 E-mail para contato: renato.memory@gmail.com
 - ⚡ Fatos sobre mim: Gosto bastante de Linux e prefiro Flask ao Django.
